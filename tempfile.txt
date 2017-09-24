@@ -1,3 +1,5 @@
 this is a temp file.
 
 Adding a new line as part of the new feature branch.
+
+adding line to compare how diff works within a branch vs across branch
