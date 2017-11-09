@@ -1,0 +1,13 @@
+1. Installed html/css/js prettify plugin to format the html code.
+2. Added the missing h1 tag to the title
+3. Deleted instruction section
+4. Rearragnged the div sections in the correct order
+5. Corrected typo in "about boo"
+6. Formated "about boo" with <p>
+7. Fixed the anchor tag to the wikipedia page
+8. Fixed the image html element
+9. Corrected order list fav
+10. Missing "" in the array of facts 
+11. Fixed the incorrect javascript file name
+12. Missing ; on color function
+13. missing "" on animate function

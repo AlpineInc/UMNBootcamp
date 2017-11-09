@@ -1,0 +1,52 @@
+h1 {
+	text-align: center;
+}
+
+#demoRed {
+	color: red;
+}
+
+#demoBlue {
+	color: blue;
+}
+
+#demoGreen {
+	color: green;
+}
+
+#demoBig {
+	font-size: 50px;
+}
+
+#demoSmall {
+	font-size: 10px;
+}
+
+#demoCentered {
+	text-align: center;
+}
+
+#demoBold {
+	font-weight: bold;
+}
+
+#demoFontType {
+	font-family: sans-serif;
+}
+
+#demoMultiAttr {
+	color: orange;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.styledFont {
+	color: green;
+	font-size: 15px;
+}
+
+#styledImage {
+	border-style: solid;
+	border-width: 10px;
+	border-color: orange;
+}

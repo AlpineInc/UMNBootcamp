@@ -1,0 +1,23 @@
+Bootstrap: 
+Bootstrap is an open source web frontend development toolkit which takes a mobile first and responsive webpage approach to building websites. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. It was first started as an internal project at twitter to streamline web design patterns/templates within Twitter. It was later open sourced in Aug 2011. Bootstrap version 3 is the latest and version beta also available.
+
+MIT vs Apache license vs GPL: 
+MIT license allows you to use the open source software any which way you would like including enhancing and commercializing the software. The user of the open source software will need to include a copy of the MIT license if the redistribution and cannot sue the original contributor of the software in anyway.
+Apache license is also similar to MIT license but mandates the user of the open source software obtains an explicit license from the original author of the software for use of any explicit patent involved with the software. Also the user of the software cannot use any of the Apache trademarks.
+GPL/Mozilla: The user of the software must provide source code for changes to the original work, but can still add code that is somehow kept distinct from the original, and keep it proprietary.
+
+React: React is a javascript library for developing web user interface. It was used for developing facebook and later open sourced. It is suited better for building user interfaces with high back and forth data movement. It has a concept called virtual DOM. The changes to the UI components are first applied to the virtual DOM. The cost of updating the virtual DOM is very less compared to the actual DOM. Once the virtual DOM is updated, it is compared with the actual DOM to identify the difference. The differences are only then applied to the actual DOM making it better performance.
+
+Reactive Native: React native is a javascript based mobile app development framework that compiles into native app components. The same code can run in any mobile platform such as IOS or Android.
+
+Redux: Redux is a javascript library for managing application state. It is usually used with React for building web UI components.
+
+MVC: With MVC, code is broken down into three separate components. The M stands for model which is a part of the code that contains the applications data. The V stands for view, which displays model data on whatever graphical user interface is available, like a computer screen. And the C stands for controller, which is the bridge between the model and the view. Its job is to transport model data over to the view.  
+
+Backbone.js: Backbone is a lightweight JavaScript library that lets you organize your code in a neat, clean and efficient manner. It does this by basing itself on what's known as the Model View Controller design pattern.
+
+Webpack: Webpack is a build tool that puts all of your assets, including Javascript, images, fonts, and CSS, in a dependency graph. Webpack lets you use require() in your source code to point to local files, like images, and decide how they're processed in your final Javascript bundle, like replacing the path with a URL pointing to a CDN.
+
+GraphQL: GrapghQL is a API query language. It has a server side component which kind of frontends multiple backend services. In a typical REST API, the client get all the fields defined in the API response. However, with GraphpQL, the client can specify the set of fields that should be included in the response. Also the requested fields can be hierarchical in nature.
+
+NMP: It is a package manager for node.js. It maintains a public repository of javascript libraries. Using npm, you can download the libraries to manage dependencies in your code.
