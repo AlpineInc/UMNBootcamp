@@ -1,0 +1,8 @@
+Check the difference between local commited repo and remote
+git diff --name-only master origin/master 
+
+Unstage a file added
+git reset <filename>
+
+unstage all files/folders added
+git reset
